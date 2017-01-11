@@ -1,0 +1,7 @@
+horrorshow.DangerousMonster
+horrorshow.Monster
+horrorshow.Vampire
+horrorshow.HighVampire
+horrorshow.Werwoolf
+horrorshow.Lethal
+horrorshow.HorrorShow

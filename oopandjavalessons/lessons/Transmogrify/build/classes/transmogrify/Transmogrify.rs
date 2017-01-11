@@ -1,0 +1,5 @@
+transmogrify.SadActor
+transmogrify.HappyActor
+transmogrify.Actor
+transmogrify.Stage
+transmogrify.Transmogrify
